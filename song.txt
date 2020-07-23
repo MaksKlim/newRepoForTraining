@@ -1,4 +1,4 @@
-Is it getting better
+﻿Is it getting better
 Or do you feel the same?
 Will it make it easier on you now?
 You got someone to blame
@@ -26,3 +26,5 @@ To the lepers in your head
 Well, did I ask too much, more than a lot?
 You gave me nothing, now it's all I got
 We're one,…
+
+feature 1 commit
